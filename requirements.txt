@@ -1,9 +1,9 @@
-numpy==1.26.1
-pandas==2.1.1
+numpy==1.26.2
+pandas==2.1.4
 matplotlib==3.8.0
 seaborn==0.13.2
 ydata-profiling==4.12.0 # can be removed from requirements before deployment
-plotly==5.17.0
+plotly==5.18.0
 ppscore==1.1.0 # can be removed from requirements before deployment
 streamlit==1.40.2
 feature-engine==1.6.1
