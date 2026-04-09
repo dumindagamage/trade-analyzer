@@ -10,7 +10,7 @@ This project is a full-stack quantitative analytics pipeline that transforms raw
 
 The core objective of this project is to prove the mathematical edge of a proprietary trading strategy by applying a strict **Fixed Fractional Risk Model (5% compounding)**. It features an automated data engineering pipeline, dynamic R-Multiple calculations, and an interactive Streamlit application that includes a **Compounding Risk Simulator** for forecasting future equity curves and withdrawal scenarios.
 
-🌐 **[Live Dashboard Demo](#)** *https://trade-analyzer-mt5.streamlit.app/*
+🌐 **[Live Dashboard Demo](https://trade-analyzer-mt5.streamlit.app/)**
 
 ---
 
